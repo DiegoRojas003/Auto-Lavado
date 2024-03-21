@@ -1,0 +1,2 @@
+25/10/2021;Julian;Combo 2;Camioneta;64000.0
+25/10/2021;Alejandro;Lavado Especial;Camioneta;41500.0
